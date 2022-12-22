@@ -160,7 +160,7 @@ section > div
     background-size: cover;
     background-position: center;
     grid-area: strazhi_golaktiki3;
-    background-image: url("strazhi_golaktiki3.jpg");
+    background-image: url("../изображения_5/strazhi_golaktiki3.jpg");
 }
 .avatar_2
 {
@@ -168,7 +168,7 @@ section > div
     background-size: cover;
     background-position: center;
     grid-area: avatar_2;
-    background-image: url("avatar_2.jpg");
+    background-image: url("../изображения_5/avatar_2.jpg");
 }
 
 .black_panter
@@ -177,7 +177,7 @@ section > div
     background-size: 100%;
     background-position: center;
     grid-area: black_panter;
-    background-image: url("black_panter.jpg");
+    background-image: url("../изображения_5/black_panter.jpg");
 }
 
 .Helena_Bonem_Karter
@@ -186,7 +186,7 @@ section > div
     background-size: cover;
     background-position: center;
     grid-area: Helena_Bonem_Karter;
-    background-image: url("Helena_Bonem_Karter.jpg");
+    background-image: url("../изображения_5/Helena_Bonem_Karter.jpg");
 }
 
 .Yansdey
@@ -195,7 +195,7 @@ section > div
     background-size: cover;
     background-position: center;
     grid-area: Yansdey;
-    background-image: url("Yansdey.jpg");
+    background-image: url("../изображения_5/Yansdey.jpg");
 }
 
 .Zolotoi_globus
@@ -204,7 +204,7 @@ section > div
     background-size: cover;
     background-position: center;
     grid-area: Zolotoi_globus;
-    background-image: url("Zolotoi_globus.jpg");
+    background-image: url("../изображения_5/Zolotoi_globus.jpg");
 }
 .Odni_na_kanikulah
 {
@@ -212,7 +212,7 @@ section > div
     background-size: cover;
     background-position: center;
     grid-area: Odni_na_kanikulah;
-    background-image: url("Odni_na_kanikulah.jpg");
+    background-image: url("../изображения_5/Odni_na_kanikulah.jpg");
 }
 .Bond
 {
@@ -220,7 +220,7 @@ section > div
     background-size: cover;
     background-position: center;
     grid-area: Bond;
-    background-image: url("Bond.jpg");
+    background-image: url("../изображения_5/Bond.jpg");
 }
 section > .container > div > div > p
 {
